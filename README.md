@@ -1,2 +1,3 @@
 # Github-Learning
-This is my first github repository 
+This is my first Git repository 
+Author - Arnob Hasan Sabit 
